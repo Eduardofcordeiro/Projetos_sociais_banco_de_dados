@@ -1,6 +1,8 @@
 # Projetos_sociais_banco_de_dados
-Projeto de banco de dados de cunho cadastral com visão para projetos sociais de cunho beneficiário
+Descrição: Projeto de banco de dados de cunho cadastral com visão para projetos sociais de cunho beneficiário
 
+
+Seguem alguns comandos para melhor navegação pelo banco de dados:
 
 -- Resumo de todas as informações importantes do banco de dados.
 
